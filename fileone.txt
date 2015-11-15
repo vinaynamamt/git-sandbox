@@ -3,3 +3,5 @@
  This changes will be for the next commit.
 
  To persist the changes directly without putting the changes to the staging area
+
+ Some more changes to the file for the next commit.
