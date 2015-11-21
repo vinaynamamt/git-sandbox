@@ -8,4 +8,10 @@
  
  Adding few more changes which will be committed to the repository withoug=tmovin to the staging area.
  
- Adding the changes from the gir-seesioin repository.
+ Adding the changes deleted some content in this line
+ 
+ if (flag){
+    statements;;;;;
+ }else{
+    // statements...
+ }
