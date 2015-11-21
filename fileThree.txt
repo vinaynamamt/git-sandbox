@@ -1,1 +1,2 @@
 adding some line of text.
+Committing the changes from my-roject directory.
