@@ -6,7 +6,7 @@
 
  Some more changes to the file for the next commit.
  
- Adding few more changes which will be committed to the repository withoug=tmovin to the staging area.
+ Adding few morebe committed to the repository withoug=tmovin to the staging area.
  
 
 
@@ -18,3 +18,4 @@
  }else{
      statements.
  }
+ adding few more changes to the file.
