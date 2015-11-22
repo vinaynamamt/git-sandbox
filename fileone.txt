@@ -3,19 +3,22 @@
  This changes will be for the next commit.
 
  To persist the changes directly without putting the changes to the staging area
-
+dsfsdfsdfsdf
+sdfsdfsdf
  Some more changes to the file for the next commit.
  
  Adding few morebe committed to the repository withoug=tmovin to the staging area.
- 
-
+ sdfsdfsdfsdfsd
+ Adding few more changes which will be committed to the repository withoug=tmovin to the staging area.
 
  //the new changes will come here ..
  Adding the changes deleted some content in this line
  
+ sdfsdfsdfsdf
  if (flag){
     statements;
  }else{
      statements.
  }
  adding few more changes to the file.
+ dsdfsfsdfsdfsa
