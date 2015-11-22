@@ -14,7 +14,7 @@
  Adding the changes deleted some content in this line
  
  if (flag){
-    statements;;;;;
+    statements;
  }else{
-    // statements...
+     statements.
  }
