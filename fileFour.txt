@@ -8,3 +8,4 @@ Now I am done with the feature.
 This is edited and been pushed to the remote repository.
 Before trying to ammend the changes.
 I am working on a feature and in the middle I want to meger he changes from the bug_fix branch.
+fixed a bug and committing the changes in the bug_fix branch.
