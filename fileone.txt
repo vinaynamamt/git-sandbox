@@ -42,4 +42,8 @@ sdfsdfsdf
  function mod(int a, int b){
     return a % b;
  }
+ 
+ function mod(int a, int b){
+    return a % b;
+ }
 
