@@ -23,6 +23,15 @@ sdfsdfsdf
  Meanwhile done some changes to the master branch..    
  }
 
+
  function sub(int a, int b){
    return a-b;
  }
+ function add(int a, int b){
+    return a + b;
+ }
+ 
+ function multiply(int a, int b){
+    return a * b;
+ }
+
