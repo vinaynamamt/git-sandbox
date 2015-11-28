@@ -34,4 +34,8 @@ sdfsdfsdf
  function multiply(int a, int b){
     return a * b;
  }
+ 
+ function divide(int a, int b){
+    return a / b;
+ }
 
