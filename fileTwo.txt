@@ -1,4 +1,4 @@
- adding a line of text to this file.
+ adding a line of text to this file.Editing it from another user
  Adding a line of text to demonstrate amending the commit.
  ADDING THE CHANGES TO THE BUG-FIX BRANCH
  Amending the commit one more time
