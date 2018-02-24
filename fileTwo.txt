@@ -1,6 +1,3 @@
  adding a line of text to this file.
  Adding a line of text to demonstrate amending the commit.
  ADDING THE CHANGES TO THE BUG-FIX BRANCH
- Amending the commit one more time
- Amending the commit one more time in the master branch.
- Adding some changes in the master branch.
